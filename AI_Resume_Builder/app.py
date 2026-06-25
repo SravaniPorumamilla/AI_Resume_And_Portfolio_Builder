@@ -49,7 +49,7 @@ st.markdown("""
 st.markdown("""
 <div class="main-header">
     <h1>📄 AI Resume & Portfolio Builder</h1>
-    <p>Powered by Google Gemini 2.0 Flash — Build stunning resumes in seconds</p>
+    <p>Powered by Google Gemini 2.5 Flash — Build stunning resumes in seconds</p>
 </div>
 """, unsafe_allow_html=True)
 
