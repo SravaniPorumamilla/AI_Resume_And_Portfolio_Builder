@@ -1,6 +1,6 @@
 # 📄 AI Resume & Portfolio Builder
 
-Powered by **Google Gemini 2.0 Flash** + **Streamlit**
+Powered by **Google Gemini 2.5 Flash** + **Streamlit**
 
 ## ✨ Features
 1. 📝 **Resume Builder** — Professional, ATS-optimised resumes
