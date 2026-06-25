@@ -570,6 +570,6 @@ Clear next steps to land the role in 3-6 months"""
 # ─────────────────────────────────────────────
 st.divider()
 st.markdown(
-    "<p style='text-align:center; color:#888;'>Built with ❤️ using Streamlit & Google Gemini 2.0 Flash</p>",
+    "<p style='text-align:center; color:#888;'>Built with ❤️ using Streamlit & Google Gemini 2.5 Flash</p>",
     unsafe_allow_html=True
 )
